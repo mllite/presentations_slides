@@ -1,4 +1,4 @@
-These are soome slides that can be shared.
+These are some slides that can be shared.
 
 © Antoine CARME, 2022, CC BY-NC-SA, unless otherwise indicated.
 
